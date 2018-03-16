@@ -1,0 +1,59 @@
+{
+  "publicPath": "/",
+  "all": [
+    "runtime~main-5393e3b10e13efd227d9.js",
+    "vendor-6f2d5f6e0a84321000e9.js",
+    "main-315d1e4da444ab50389d.js",
+    "runtime~main-5393e3b10e13efd227d9.js.map",
+    "vendor-6f2d5f6e0a84321000e9.js.map",
+    "main-315d1e4da444ab50389d.js.map"
+  ],
+  "initial": [
+    "runtime~main-5393e3b10e13efd227d9.js",
+    "vendor-6f2d5f6e0a84321000e9.js",
+    "main-315d1e4da444ab50389d.js"
+  ],
+  "async": [],
+  "modules": {
+    "19109679": [
+      1,
+      4
+    ],
+    "38468440": [
+      1,
+      4
+    ],
+    "3c0dbce4": [
+      1,
+      4
+    ],
+    "610e98ff": [
+      1,
+      4
+    ],
+    "64a9c996": [
+      1,
+      4
+    ],
+    "96cf9150": [
+      1,
+      4
+    ],
+    "8b10dc44": [
+      1,
+      4
+    ],
+    "624c31e8": [
+      2,
+      5
+    ],
+    "6be8fd62": [
+      1,
+      4
+    ],
+    "befb5164": [
+      1,
+      4
+    ]
+  }
+}
