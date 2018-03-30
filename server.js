@@ -14,9 +14,12 @@ const router = new KoaRuoter()
 const template = fs.readFileSync(path.resolve('./index.template.html'), 'utf-8')
 
 const renderer = createBundleRenderer(serverBundle, {
-  runInNewContext: false, // 推荐
-  template, // （可选）页面模板
-  clientManifest // （可选）客户端构建 manifest
+  // 推荐
+  runInNewContext: false,
+  // （可选）页面模板
+  template, 
+  // （可选）客户端构建 manifest
+  clientManifest 
 })
 
 app.use(serve(path.resolve(__dirname, './dist')))
